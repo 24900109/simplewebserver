@@ -1,5 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:
+25.08.2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -44,8 +45,10 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </head>
 <body>
 <h1>
+    NAME : N.KIRUTHIKA <br>
+    REG.NO : 212224230127 <br>
     <table align="center" border="1" bgcolor="pink" cellpadding="10">
-        <caption>LIST OF PROTOCOL IN TCP/IP PROTOCOLSUITE </caption>
+        <caption><br>LIST OF PROTOCOL IN TCP/IP PROTOCOLSUITE </caption>
         <tr><th>S.No</th><th>Name of the Layer</th><th>Name of the prototype</th></tr>
         <tr><td>1</td><td>Application Layer</td><td>HTTP,FTP,DNS,Telnet & SS</td></tr>
         <tr><td>2</td><td>Transport Layer</td><td>TCP & UDP</td></tr>
@@ -56,8 +59,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </body>
 </html>
 ```
-## OUTPUT:
+# OUTPUT:
+![alt text](<Screenshot (4).png>)
 
-![alt text](<exp 1 screenshot.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
